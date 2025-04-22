@@ -41,6 +41,10 @@ permalink: /
 ![image](/assets/images/image.png)
 
 ![image](/assets/images/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.webp)
+
+これはなんかパソコンに高解像度な画像があったので乗っけました
+
+![image](/assets/images/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.webp)
 ---
 
 以下テンプレート
