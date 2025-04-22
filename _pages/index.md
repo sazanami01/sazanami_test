@@ -36,9 +36,11 @@ permalink: /
 
 お菓子パーティできますね（笑）
 
+## このキャラが艦これでの推しです。
 
 ![image](/assets/images/image.png)
 
+![image](/assets/images/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.webp)
 ---
 
 以下テンプレート
