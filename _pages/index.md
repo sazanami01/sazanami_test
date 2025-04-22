@@ -37,7 +37,7 @@ permalink: /
 お菓子パーティできますね（笑）
 
 
-![image](/assets/images/スクリーンショット (282).png)
+![image](/assets/images/image.png)
 
 ---
 
