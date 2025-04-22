@@ -40,7 +40,9 @@ permalink: /
 
 ![image](/assets/images/image.png)
 
-![image](/assets/images/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.webp)
+人生で一番綺麗に撮れた写真です
+
+![image](/assets/images/131037.jpg)
 
 これはなんかパソコンに高解像度な画像があったので乗っけました
 
