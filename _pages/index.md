@@ -36,6 +36,9 @@ permalink: /
 
 お菓子パーティできますね（笑）
 
+
+!.[image].(/assets/images/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.webp)
+
 ---
 
 以下テンプレート
