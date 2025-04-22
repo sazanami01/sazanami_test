@@ -3,8 +3,9 @@ title: "sazanami_hi"
 author: default
 permalink: /
 ---
-"こんばんは"¥n
-"最近、眠いかもです"
+こんばんは
+
+最近、眠いかもです
 
 
 ---
