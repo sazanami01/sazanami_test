@@ -40,7 +40,7 @@ permalink: /
 
 ![image](/assets/images/image.png)
 
-人生で一番綺麗に撮れた写真です
+### 人生で一番綺麗に撮れた写真です
 
 ![image](/assets/images/131037.jpg)
 
