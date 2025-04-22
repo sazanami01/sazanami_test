@@ -38,15 +38,15 @@ permalink: /
 
 ## このキャラが艦これでの推しです。
 
-![image](/sazanami_test/assets/images/image.png)
+![image](sazanami_test/assets/images/image.png)
 
 ### 人生で一番綺麗に撮れた写真です
 
-![image](/sazanami_test/assets/images/131037.jpg)
+![image](sazanami_test/assets/images/131037.jpg)
 
 これはなんかパソコンに高解像度な画像があったので乗っけました
 
-![image](/sazanami_test/assets/images/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.webp)
+![image](sazanami_test/assets/images/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.webp)
 ---
 
 以下テンプレート
